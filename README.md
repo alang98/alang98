@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan Guerrero</h1>
-<h3 align="center">Hi, I'm Alan. I am a Full-Stack Software Engineer who is proficient in building websites and web applications. I focus on developing applications that are efficient while considering future sustainability and scalability.</h3>
+<h3 align="center">I am a Full-Stack Software Engineer who is proficient in building websites and web applications. I focus on developing applications that are efficient while considering future sustainability and scalability.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
