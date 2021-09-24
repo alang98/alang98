@@ -27,7 +27,7 @@ I'm Alan Guerrero a Full Stack Software Engineer currently based in New York Cit
 ![](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=html5&logoColor=white&color=5BC9FC)
 ![](https://img.shields.io/badge/Language-CSS3-informational?style=flat&logo=css3&logoColor=white&color=5BC9FC)
 ![](https://img.shields.io/badge/Tools-Material%20UI-informational?style=flat&logo=material-ui&logoColor=white&color=27A133)
-![](https://img.shields.io/badge/Tools-SVG-informational?style=flat&logo=svg&logoColor=white&color=27A133)
+![](https://img.shields.io/badge/Tools-Zustand-informational?style=flat&logo=svg&logoColor=white&color=27A133)
 ![](https://img.shields.io/badge/Tools-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=27A133)
 
 > Back End
