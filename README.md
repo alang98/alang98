@@ -7,12 +7,12 @@ I'm Alan Guerrero a Full Stack Software Engineer currently based in New York Cit
 
 <!-- LinkedIn Contact -->
 <a href="https://www.linkedin.com/in/alang98/" target="_blank">
-  <img src="https://img.shields.io/badge/-amandasaraklein-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-alang98-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 
 <!--   Email -->
 <a href="mailto:alangu.ua@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-amanda.s.klein1%40gmail.com-0F2DD9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EMAIL-alangu.ua@gmail.com-0F2DD9?style=for-the-badge"/>
 </a>
 
 ---
