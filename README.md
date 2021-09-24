@@ -2,7 +2,7 @@
 
 ![](https://media-exp1.licdn.com/dms/image/C5616AQHM1VuDnyKEqQ/profile-displaybackgroundimage-shrink_350_1400/0/1631564215314?e=1637798400&v=beta&t=x9VIdttHCTVOzsBi5YfMov-OYXS16nL5qgy6_aoHFIk)
 
-I'm Alan Guerrero a Full Stack Software Engineer currently based in New York City. I spend most of time reading up on new technologies and furthering my understanding on ones I have used before. I focus on developing applications that are efficient while considering future sustainability and scalability. Take a look at the projects I have been working on and feel free to contact me if you have any questions or would like to chat!
+I'm Alan Guerrero, a Full Stack Software Engineer currently based in New York City. I spend most of time at the park with family and friends or cooking new recipes. I focus on developing applications that are efficient while considering future sustainability and scalability. Take a look at the projects I have been working on and feel free to contact me if you have any questions or would like to chat!
 ---
 
 <!-- LinkedIn Contact -->
